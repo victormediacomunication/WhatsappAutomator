@@ -13,4 +13,4 @@ cd Desktop
 
 Get-Item –Path C:\Users\$env:username\Desktop\*64.exe | Move-Item -Destination C:\Users\$env:username\Desktop\Python
 
-Start C:\Users\$env:username\Desktop\*64.exe | Move-Item -Destination C:\Users\$env:username\Desktop\Python | pip install pyttsx3 pywhatkit datetime wikipedia pyjokes pyaudio SpeechRecognition pipwin | pipwin install pyaudio
+Start python-3.10.0-amd64.exe
