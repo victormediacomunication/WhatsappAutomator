@@ -1,13 +1,13 @@
-"+393383536151"
-"+393917721878"
-"+393494361473"
-"+393246049687"
-"+393383536151"
-"+393917721878"
-"+393494361473"
-"+393246049687"
-"+393383536151"
-"+393383536151"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
+"+39"
 START MESSAGE DA RIGA 13 A RIGA 41
 fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ciao questa è una prova sms testata sul programma 
